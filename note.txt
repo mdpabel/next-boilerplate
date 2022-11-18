@@ -1,0 +1,1 @@
+MONGODB_URI=mongodb://${user}:${pass}@cluster0-shard-00-00.hkgud.mongodb.net:27017,cluster0-shard-00-01.hkgud.mongodb.net:27017,cluster0-shard-00-02.hkgud.mongodb.net:27017/${name}?ssl=true&replicaSet=atlas-k8dxxy-shard-0&authSource=admin&retryWrites=true&w=majority
